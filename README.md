@@ -1,4 +1,4 @@
-# blockchain_fitness_tracker
+# Research Project on Blockchain Based Fitness Activities
 A Blockchain based Fitness Tracker cum Fitness Media
 
 # How To Run The Frontend?
