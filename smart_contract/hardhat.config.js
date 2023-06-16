@@ -7,7 +7,7 @@ module.exports = {
     sepolia: {
       url: "https://eth-sepolia.g.alchemy.com/v2/8h4jELz3ayY1qNCVao7ck9cG4xnifhvk",
       accounts: [
-        "a3f22b5a0aa544c4f15238fa0d858defa8a4edbaa3670f6e1373acd0732607a4",
+        "........", // To deploy this contract again, create an account in Metamask and paste your account Private Key Here
       ],
     },
   },
